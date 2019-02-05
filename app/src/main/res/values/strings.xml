@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="location_name_placeholder">Location Name</string>
+    <string name="description_placeholder">Description</string>
+
+
+    <string-array name="city_names">
+        <item>Berlin</item>
+        <item>Munich</item>
+        <item>Cologne</item>
+        <item>Passau</item>
+    </string-array>
+
+    <string-array name="berlin_attractions">
+        <item>Brandenburg Gate</item>
+        <item>Reichstag Building</item>
+        <item>Memorial to the Murdered Jews of Europe</item>
+        <item>Berlin Cathedral Church</item>
+    </string-array>
+
+    <string-array name="berlin_descriptions">
+        <item>Restored 18th-century gate and landmark with 12 Doric columns topped by a classical goddess statue.</item>
+        <item>Neo-Renaissance parliament building topped by a Norman Foster glass dome with 360-degree city views.</item>
+        <item>2,711 columns forming a vast mazelike Holocaust memorial, with an underground exhibition room.</item>
+        <item>Majestic 1800s cathedral with an organ with 7,000 pipes, plus royal tombs and a dome for city views.</item>
+    </string-array>
+
+    <integer-array name="berlin_imgs">
+        <item>@drawable/bradenburggate</item>
+        <item>@drawable/reichstagbuilding</item>
+        <item>@drawable/memorial</item>
+        <item>@drawable/berlinchurch</item>
+    </integer-array>
+
+    <string-array name="munich_attractions">
+        <item>Marienplatz</item>
+        <item>Nymphenburg Palace</item>
+        <item>English Garden</item>
+        <item>Munich Residenz</item>
+    </string-array>
+
+    <string-array name="munich_descriptions">
+        <item>City-center square and transport hub with towering St. Peters church, 2 town halls and a toy museum.</item>
+        <item>A 200-hectare palace estate with a rococo interiors, coach display and symmetrical baroque gardens.</item>
+        <item>Expansive, 18th-century, urban park with 78km of cycling/jogging trails and a lakeside beer garden</item>
+        <item>Museum complex in an old royal residence Palace, buildings and gardens housing state-owned museums.</item>
+    </string-array>
+
+    <integer-array name="munich_imgs">
+        <item>@drawable/marienplaz</item>
+        <item>@drawable/nymphenburgpalace</item>
+        <item>@drawable/englishgarden</item>
+        <item>@drawable/munichresidenz</item>
+    </integer-array>
+
+    <string-array name="cologne_attractions">
+        <item>Cologne Cathedral</item>
+        <item>Cologne Chocolate Museum</item>
+        <item>Museum Ludwig</item>
+        <item>Phantasialand</item>
+    </string-array>
+
+    <string-array name="cologne_descriptions">
+        <item>Grand Gothic cathedral with twin spires Landmark Gothic cathedral with a huge facade, plus guided tours.</item>
+        <item>RExhibits tracing 3,000-year history of chocolate, from Aztecs to today, housed in waterside museum.</item>
+        <item>The formerly private collection of Peter Ludwig, with paintings, ceramics, sketches and prints.</item>
+        <item>Popular theme park with roller coasters and other thrill rides, plus stage shows and accommodations.</item>
+    </string-array>
+
+    <integer-array name="cologne_imgs">
+        <item>@drawable/colognecathedral</item>
+        <item>@drawable/chocolatemuseum</item>
+        <item>@drawable/museumludwig</item>
+        <item>@drawable/phantasialand</item>
+    </integer-array>
+
+    <string-array name="passau_attractions">
+        <item>Veste Oberhaus</item>
+        <item>St. Stephans Cathedral</item>
+        <item>Ilz</item>
+        <item>Passau, Old Town Hall</item>
+    </string-array>
+
+    <string-array name="passau_descriptions">
+        <item>Hilltop fortress dating to 1219, now home to a history museum, youth hostel and restaurant.</item>
+        <item>Baroque Catholic cathedral, designed by Carlo Lurag, with a gilded pulpit and frescoes by Tencalla.</item>
+        <item>The Ilz is a river running through the Bavarian Forest, Germany. </item>
+        <item>Seat of local government</item>
+    </string-array>
+
+    <integer-array name="passau_imgs">
+        <item>@drawable/vesteoberhaus</item>
+        <item>@drawable/stephanscathedral</item>
+        <item>@drawable/ilzriver</item>
+        <item>@drawable/oldtown</item>
+    </integer-array>
+
+</resources>
